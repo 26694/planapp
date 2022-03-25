@@ -1,1 +1,7 @@
 this is my git project
+
+this is my sample project
+welcome to aws
+welcome to jenkins
+welcom to vertex
+
